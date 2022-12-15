@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ejercicio1_RecuperatorioMateria_AlvaroPistelli/1.0.0": {
+        "runtime": {
+          "Ejercicio1_RecuperatorioMateria_AlvaroPistelli.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio1_RecuperatorioMateria_AlvaroPistelli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
